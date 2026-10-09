@@ -1,19 +1,3 @@
-# AppActivity4 - Pertemuan 4 PAM
+# Tampilan Layoutnya
+<img width="382" height="817" alt="image" src="https://github.com/user-attachments/assets/cd9f7966-51c3-4554-8f3a-69b8ac8a31d4" />
 
-Aplikasi Android Jetpack Compose sederhana yang menampilkan profil mahasiswa (Kartu Identitas Mahasiswa) untuk Mata Kuliah Pengembangan Aplikasi Mobile (PAM).
-
-## 📱 Fitur
-- Menampilkan nama program studi dan universitas (**Teknologi Informasi - Universitas Muhammadiyah Yogyakarta**)
-- Menampilkan kartu profil mahasiswa (**Rafii Arif Nugroho**) lengkap dengan logo UMY dan alamat
-- Menggunakan **Jetpack Compose**, **Material 3**, dan support **Edge-to-Edge**
-- Tampilan kartu dengan warna latar custom dan font khusus
-
-## 🛠️ Teknologi yang Digunakan
-- **Kotlin**
-- **Jetpack Compose**
-- **Material3**
-- **Android Gradle Plugin (AGP)**
-
-## 👤 Penulis
-- **Nama**: Rafii Arif Nugroho
-- **Prodi**: Teknologi Informasi, Universitas Muhammadiyah Yogyakarta
